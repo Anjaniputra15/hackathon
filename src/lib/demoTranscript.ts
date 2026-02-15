@@ -71,6 +71,7 @@ const demoMessages: DebateMessage[] = [
 
 export const demoSession: SessionData = {
   id: "demo",
+  userId: "demo-user",
   decision: "Should I quit my job to start a company?",
   context:
     "I have 8 months of savings, a validated idea in B2B SaaS, and a co-founder who's ready. My current job is stable but unfulfilling.",
