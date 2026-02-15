@@ -36,10 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
-# cloudflare
-.open-next
-.dev.vars
-.wrangler
+# netlify
+.netlify
+.env.local
+.env.production
 
 # typescript
 *.tsbuildinfo
